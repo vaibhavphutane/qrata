@@ -1,0 +1,45 @@
+
+.result-container > p {
+    text-align: center;
+}
+.result-container h1 {
+    text-align: center;
+    padding-top: 20px;
+    color: #004A80;
+}
+.profile {
+    width: 80%;
+}
+.profile-card {
+    background-color: #fff;
+    width: 50%;
+    margin: auto;
+    padding: 20px;
+    border-radius: 30px;
+    box-shadow: 0 2px 4px 0;
+    display: flex;
+    flex-wrap: wrap;
+    margin-bottom: 30px;
+}
+
+.profile-img {
+    margin-top: 10px;
+}
+
+.address-container { 
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+.address-container .address, .phone-number, .email, .relative {
+    width: 200px;
+}
+
+
+.profile-details h3 {
+    color: #004A80;
+}
+
+#profileName {
+    color: #004A80;
+}

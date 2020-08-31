@@ -1,0 +1,63 @@
+.page-container {
+    text-align: center;
+}
+
+
+.feature {
+    display: flex;
+    margin: 10px 5px;
+    text-align: left;
+    width: 300px;
+}
+
+.number-tag {
+    background-color: #004A80;
+    height: 50px;
+    width: 50px;
+    color: #fff;
+    border-radius: 50%;
+}
+
+.number-tag p {
+    font-size: 24px;
+    color: #F6BC25;
+    letter-spacing: 0;
+    text-align: center; 
+    margin: 10px;
+}
+
+.feature-tag {
+    padding-left: 10px;
+}
+
+.feature-tag p {
+    margin: 0px;
+}
+
+
+.feature-heading {
+    font-size: 22px;
+    color: #004A80;
+    display: block;
+    padding-bottom: 10px;
+}
+
+.feature-container {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin: 30px;
+    flex-wrap: wrap;
+}
+
+.info-container {
+    padding: 20px;
+    width: 70%;
+    margin: auto;
+    
+}
+
+.info-container h1 {
+    color: #004A80;
+}
+
